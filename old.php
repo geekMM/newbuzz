@@ -5,7 +5,7 @@
 <div class="col-sm-2">
 <?php
 $username = "root";
-$password = "buzzworks";
+$password = "buzzworks_old";
 $hostname = "127.0.0.1"; 
 
 //connection to the database
