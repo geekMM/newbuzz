@@ -11,6 +11,6 @@ $result=curl_exec($cSession);
 echo $result;
 curl_close($cSession);
 //step5
-echo "hi";
+echo "hello";
 ?>
 
